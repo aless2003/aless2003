@@ -2,9 +2,10 @@
 # About me:
 My Name is Alessandro Schwaiger, just call me Alessandro or Diamond, as that's how most people call me :)
 
-I'm 18 and currently Student in the HTL Saalfelden in Austria.
+I'm 20 live in Austria.
 
 I mainly program in Java and love to learn about new stuff.
+I like to work with Vaadin, as well as Spring Boot.
 
 I love to read Manga, watch Anime and of course programming.
 
