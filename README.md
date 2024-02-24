@@ -20,3 +20,8 @@ That's about it :P
 ![aless2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=aless2003&count_private=true)
 
 Generated with https://github.com/jstrieb/github-stats
+
+---
+![](https://github-profile-trophy.vercel.app/?username=aless2003&theme=tokyonight)
+
+Provided by https://github.com/ryo-ma/github-profile-trophy
