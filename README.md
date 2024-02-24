@@ -22,6 +22,6 @@ That's about it :P
 Generated with https://github.com/jstrieb/github-stats
 
 ---
-![](https://github-profile-trophy.vercel.app/?username=aless2003&theme=tokyonight)
+![](https://github-profile-trophy.vercel.app/?username=aless2003&theme=tokyonight&column=-1)
 
 Provided by https://github.com/ryo-ma/github-profile-trophy
